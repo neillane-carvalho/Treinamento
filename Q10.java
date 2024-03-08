@@ -11,6 +11,7 @@ public class Q10 {
         return true;
     }
 
+
     public static void main(String[] args) {
         System.out.println("Números primos de 1 até 50:");
         for (int i = 1; i <= 50; i++) {

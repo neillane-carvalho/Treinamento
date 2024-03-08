@@ -36,8 +36,7 @@ public class Q11 {
 
     public static void main (String[] args){
         lerInfo();
-
-
+        //chamar metodos
         print();
 
 
